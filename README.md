@@ -6,4 +6,4 @@ Python 3.10.6 on any working OS that supports Python. Check here if your OS is s
 
 ## Usage
 Just execute the "PyCarM.py" file. 
-You may have to create a new folder called "files" and an empty file "assortment.txt" in it.
+If there´s an error, ask in the "Issues" tab of this repository. 
